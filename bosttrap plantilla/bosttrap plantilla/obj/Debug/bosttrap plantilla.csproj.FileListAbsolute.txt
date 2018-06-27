@@ -1,0 +1,58 @@
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\ApplicationInsights.config
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\bosttrap plantilla.dll.config
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\bosttrap plantilla.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\bosttrap plantilla.pdb
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\DevExpress.Data.v16.1.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\DevExpress.Printing.v16.1.Core.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\DevExpress.RichEdit.v16.1.Core.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\DevExpress.Web.ASPxThemes.v16.1.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\DevExpress.Web.v16.1.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\Microsoft.AI.Web.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\Microsoft.AI.WindowsServer.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\Microsoft.ApplicationInsights.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\DevExpress.Office.v16.1.Core.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\DevExpress.Pdf.v16.1.Core.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\DevExpress.Pdf.v16.1.Drawing.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\Microsoft.AI.Web.xml
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\Microsoft.AI.WindowsServer.xml
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\Microsoft.ApplicationInsights.xml
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\DevExpress.Data.v16.1.xml
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\DevExpress.RichEdit.v16.1.Core.xml
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\DevExpress.Printing.v16.1.Core.xml
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\DevExpress.Web.v16.1.xml
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\DevExpress.Office.v16.1.Core.xml
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\DevExpress.Pdf.v16.1.Core.xml
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\DevExpress.Pdf.v16.1.Drawing.xml
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\de\DevExpress.Data.v16.1.resources.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\es\DevExpress.Data.v16.1.resources.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\ja\DevExpress.Data.v16.1.resources.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\ru\DevExpress.Data.v16.1.resources.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\de\DevExpress.Printing.v16.1.Core.resources.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\es\DevExpress.Printing.v16.1.Core.resources.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\ja\DevExpress.Printing.v16.1.Core.resources.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\ru\DevExpress.Printing.v16.1.Core.resources.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\de\DevExpress.Web.v16.1.resources.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\es\DevExpress.Web.v16.1.resources.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\ja\DevExpress.Web.v16.1.resources.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\ru\DevExpress.Web.v16.1.resources.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\de\DevExpress.Office.v16.1.Core.resources.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\es\DevExpress.Office.v16.1.Core.resources.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\ja\DevExpress.Office.v16.1.Core.resources.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\ru\DevExpress.Office.v16.1.Core.resources.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\de\DevExpress.Pdf.v16.1.Core.resources.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\es\DevExpress.Pdf.v16.1.Core.resources.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\bin\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\obj\Debug\bosttrap plantilla.csprojResolveAssemblyReference.cache
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\obj\Debug\bosttrap plantilla.dll
+c:\users\windows 10 dev\documents\visual studio 2015\Projects\bosttrap plantilla\bosttrap plantilla\obj\Debug\bosttrap plantilla.pdb

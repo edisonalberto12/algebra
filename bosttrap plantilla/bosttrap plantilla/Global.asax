@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="bosttrap_plantilla.Global_asax" Language="C#" %>
